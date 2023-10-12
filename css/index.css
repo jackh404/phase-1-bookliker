@@ -2,3 +2,12 @@ body {
 	display: grid;
 	grid-template-columns: 2fr 8fr
 }
+.hidden{
+	display:none
+}
+#cover{
+	height: 200px;
+}
+#show-panel{
+	margin-left: 10px;
+}
